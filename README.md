@@ -3,7 +3,9 @@
 Installation:
 
   git clone --recurse-submodules https://github.com/mfxox/ILCC
+  
   cd ILCC
+  
   python setup.py install
 
 Process Data:
